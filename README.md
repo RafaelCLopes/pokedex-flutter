@@ -1,16 +1,21 @@
-# pokedex
+# Pokédex em Flutter com Scroll Infinito
 
-A new Flutter project.
+Este é um aplicativo simples de Pokédex desenvolvido em Flutter que lista os Pokémon com um scroll infinito.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Lista de Pokémon com scroll infinito.
+- Informações básicas sobre cada Pokémon.
 
-A few resources to get you started if this is your first Flutter project:
+## Requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK instalado
+- Dependências do projeto instaladas (consulte o arquivo `pubspec.yaml`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Links Usados
+
+- Link das Imagens:
+  https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/$id.svg
+
+- Link da API:
+  https://pokeapi.co/api/v2/  
