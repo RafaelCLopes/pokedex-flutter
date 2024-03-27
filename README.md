@@ -24,6 +24,9 @@ Este é um aplicativo simples de Pokédex desenvolvido em Flutter que lista os P
 
   
 
-https://github.com/RafaelCLopes/pokedex-flutter/assets/36003878/99590c4d-6a76-4f80-ace8-bf2b7dfa250b
+
+
+
+https://github.com/RafaelCLopes/pokedex-flutter/assets/36003878/68987c34-71bf-4392-8db8-ce44949e0e37
 
 
