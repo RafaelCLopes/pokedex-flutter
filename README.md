@@ -18,4 +18,12 @@ Este é um aplicativo simples de Pokédex desenvolvido em Flutter que lista os P
   https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/$id.svg
 
 - Link da API:
-  https://pokeapi.co/api/v2/  
+  https://pokeapi.co/api/v2/
+
+  -Imagens do aff funcionando:
+
+  
+
+https://github.com/RafaelCLopes/pokedex-flutter/assets/36003878/99590c4d-6a76-4f80-ace8-bf2b7dfa250b
+
+
